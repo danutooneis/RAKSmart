@@ -22,7 +22,8 @@ RAKSmart 主营业务涵盖独立服务器、VPS主机、云服务器、企业�
 | **VPS云服务器** | 硅谷 | 1.5G内存, 2核CPU, 35G硬盘, 20M带宽 | $19.9/年 | [购买链接](https://billing.raksmart.com/whmcs/aff.php?aff=7337&pid=1377) |
 | **独立服务器** | 圣何塞 | I3-2130, 8G内存, 1T HDD, 100M带宽 | $30/月 | [购买链接](https://billing.raksmart.com/whmcs/aff.php?aff=7337&pid=638) |
 
-![image](https://github.com/danutooneis/RAKSmart/assets/157678673/43e34d5a-3520-434f-b79f-0d5f2a7b3b76)
+![image](https://github.com/danutooneis/RAKSmart/assets/157678673/f618c1e9-a08c-4ca6-8c28-089516846f87)
+
 
 ### 独服活动套餐配置价格
 
